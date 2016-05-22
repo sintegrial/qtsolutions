@@ -8,3 +8,4 @@ SUBDIRS += $$PWD/../qtwidgets/examples/qtcopydialog/examples.pro
 SUBDIRS += $$PWD/../qtwidgets/examples/qtpiemenu/examples.pro
 SUBDIRS += $$PWD/../qtwidgets/examples/qtthumbwheel/examples.pro
 SUBDIRS += $$PWD/../qtwidgets/examples/qttoolbardialog/examples.pro
+SUBDIRS += $$PWD/../qtwidgets/examples/qtmmlwidget/example.pro

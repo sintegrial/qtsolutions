@@ -1,7 +1,7 @@
 TEMPLATE = app
 INCLUDEPATH += .
 
-TARGET = draw
+TARGET = colorpicker_draw
 include(../../examples.pri)
 
 # Input

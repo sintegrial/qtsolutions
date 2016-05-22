@@ -1,7 +1,7 @@
 TEMPLATE = app
 INCLUDEPATH += .
 
-TARGET = simples
+TARGET = colorpicker_simple
 include(../../examples.pri)
 
 # Input

@@ -1,7 +1,7 @@
 TEMPLATE = app
 INCLUDEPATH += .
 
-TARGET = graphs
+TARGET = colorcombo_graphs
 include(../../examples.pri)
 
 # Input

@@ -1,6 +1,6 @@
 TEMPLATE = app
 
-TARGET = simple
+TARGET = colorcombo_simple
 
 include(../../examples.pri)
 

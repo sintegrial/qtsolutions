@@ -2,6 +2,7 @@ TEMPLATE = app
 CONFIG -= moc
 INCLUDEPATH += .
 
+TARGET = colortriangle_demo
 include(../../examples.pri)
 
 # Input
